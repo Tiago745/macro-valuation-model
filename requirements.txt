@@ -1,0 +1,7 @@
+ipykernel
+pandas 
+yfinance
+numpy
+openpyxl
+statsmodels
+matplotlib
